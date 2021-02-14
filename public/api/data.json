@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+            "name": "Sonia M.",
+            "text": "Fue realmente fácil, en una semana vendí mi piso",
+            "image": "https://picsum.photos/345/213?random=1"
+        },
+        {
+            "name": "Peter P.",
+            "text": "Rápido y sencillo",
+            "image": "https://picsum.photos/345/213?random=2"
+        },
+        {
+            "name": "Carlos L.",
+            "text": "Con un par de clics vendimos nuestra casa",
+            "image": "https://picsum.photos/345/213?random=3"
+        }
+    ]
+}

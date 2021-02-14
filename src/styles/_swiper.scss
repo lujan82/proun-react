@@ -1,0 +1,66 @@
+
+.swiper-container {
+    width: 100%;
+    height: auto;
+}
+
+.swiper--main {
+    padding: 27px 15px 36px;
+    box-sizing: border-box;
+}
+
+.swiper--main-title {
+    margin-bottom: 13px;
+    font-size: 24px;
+    font-weight: 300;
+    color: #008BCF;
+    text-align: center;
+}
+
+.swiper--main-text {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.43;
+    color: #4A4A4A;
+    text-align: center;
+}
+
+.swiper--content {
+    position: relative;
+    top: -4px;
+    width: 345px;
+    margin: auto;
+    text-align: left;
+    background: #F8F8F8;
+}
+
+.swiper-slide.swiper-slide-active {
+    padding: 15px;
+    margin-bottom: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.swiper--title {
+    padding: 22px 10px 8px 39px;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: italic;
+    color: #008BCF;
+    text-align: left;
+    //background: url(/assets/images/copy-2.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-position-x: 15px;
+}
+
+.swiper--person {
+    padding-bottom: 25px;
+    padding-left: 39px;
+    font-size: 14px;
+    color: #4A4A4A;
+}
+
+.swiper-container-horizontal > .swiper-pagination-bullets {
+    bottom: 30px;
+}
